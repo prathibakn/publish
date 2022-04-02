@@ -1,3 +1,4 @@
 {
-  "your": "json config here"
+  name: "prathibakn/testingpublish",
+  @prathibakn: registry=https://npm.pkg.github.com
 }
