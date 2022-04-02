@@ -1,4 +1,4 @@
 {
   name: "prathibakn/testingpublish",
-  @prathibakn: registry=https://npm.pkg.github.com
+  prathibakn:registry=https://npm.pkg.github.com
 }
